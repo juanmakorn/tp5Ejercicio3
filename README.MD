@@ -67,4 +67,4 @@ Tenga en cuenta que al ingresar al link tiene que tener su usuario y constraseñ
 
 ## Repositorio utilizado: 
 - [GitHup](https://github.com/juanmakorn/tp5Ejercicio3.git)
-- [Netlify] (https://merry-centaur-a92254.netlify.app/)
+- [Netlify] (https://shiny-griffin-f17ea6.netlify.app/)
